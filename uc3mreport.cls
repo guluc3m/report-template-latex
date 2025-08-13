@@ -1,8 +1,10 @@
-% =========================================================================== %
-%% uc3mreport.cls : LaTeX Class File
-% =========================================================================== %
-% Authors: Luis Daniel Casais Mezquida <luisdaniel.casais@alumnos.uc3m.es> &
-%          Jose Antonio Verde Jiménez <joseaverde@protonmail.com>
+% "THE BEER-WARE LICENSE" (Revision 42):
+% Luis Daniel Casais Mezquida <luisdaniel.casais@alumnos.uc3m.es> & Jose Antonio
+% Verde Jiménez <joseaverde@protonmail.com> wrote this file. As long as you
+% retain this notice you can do whatever you want with this stuff. If we meet
+% some day, and you think this stuff is worth it, you can buy us a beer in
+% return.
+
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{uc3mreport}[UC3M report template]
