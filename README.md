@@ -1,5 +1,11 @@
 # Plantilla de LaTeX para memorias de la UC3M
 
+> [!NOTE]
+> Recomendamos _encarecidamente_ usar [Typst](https://typst.app/) en lugar de LaTeX, por su facilidad de uso y velocidad de compilación.
+>
+> Puedes encontrar esta misma plantilla, en versión Typst, en [guluc3m/report-template-typst](https://github.com/guluc3m/report-template-typst/).
+
+
 ## Uso
 
 La memoria consiste de un archivo principal [`report.tex`](report.tex), y un archivo de definición de clase [`uc3mreport.cls`](uc3mreport.cls), el cual contiene toda la configuración.
